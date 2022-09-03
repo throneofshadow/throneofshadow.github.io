@@ -7,7 +7,7 @@
   {% assign imgurl = profile.image | relative_url %}
 {% endif %}
 <div id="profile">
-  <a href="{{ '/portfolio' | relative_url }}">
+  <a href="{{ '/' | relative_url }}">
     <div class="img-wrap">
       <img src="{{ imgurl }}" alt="profile-image">
     </div>
@@ -34,7 +34,7 @@
 </div>
 <!-- Project -->
 <div id="proj-wrap">
-  <a href="{{ '/portfolio#projects' | relative_url }}">
+  <a href="{{ '/#projects' | relative_url }}">
     <p class="title">{{ site.theme_settings.projects_title }}</p>
     <hr class="proj-hr">
     {% for _ in site.data.projects %}
