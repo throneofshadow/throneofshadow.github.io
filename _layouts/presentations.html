@@ -18,6 +18,9 @@ layout: page
               [<a href="{{ presentation.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="Slides">Slides</a>]
             {%- endif %}
           {%- endif %}
+          {%- if presentation.recording %}
+            [<a href="{{ presentation.recording }}" class="btn btn-sm z-depth-0" role="button">Recording</a>]
+          {%- endif %}
           {%- if presentation.hub %}
             [<a href="{{ presentation.hub | relative_url }}" class="btn btn-sm z-depth-0" role="button">All Information</a>]
           {%- endif %}
