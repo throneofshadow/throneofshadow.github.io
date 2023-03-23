@@ -11,6 +11,18 @@
                   sets of analysis dashboarded include keypoint speeds, custom video feed, and modeled results given 
                   experimental metadata such as experiment type.
 
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://github.com/throneofshadow/ReachAnnotation # Full URL
+    image: # path: assets/project/
+    date: 01/2023
+    title: ReachAnnotation
+    summary: Custom annotation GUI, written in TKinter, to annotate behavioral videos from the ReachMaster experimental paradigm.
+    description:  GUI to annotate behavioral data. Annotations include when a behavior starts, the hand used,
+                  the reach type, number of attempted grasps, and if undesired behaviors are observed.
+
 - project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
