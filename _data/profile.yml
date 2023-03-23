@@ -60,4 +60,6 @@ social:
   instagram:
 awards: # Remove for hiding the awards section
   - "AWS SAA"
-  - "GCP Devops"
+  - "GCP Cloud Engineer"
+  - "GCP Cloud Security Engineer"
+  - "GCP Machine Learning Engineer"
