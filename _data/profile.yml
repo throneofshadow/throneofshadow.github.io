@@ -18,28 +18,28 @@ interests: # Remove for hiding the interests section
 skills: # Remove for hiding the skills section
   - skill: Python
     value: 95  # Percent value
-  - skill: Tensorflow, Keras
-    value: 70
+  - skill: Tensorflow, Keras, SciKit
+    value: 90
   - skill: C++
-    value: 60
+    value: 80
   - skill: SQL
     value: 75
   - skill: AWS
-    value: 70
-  - skill: MongoDB
     value: 80
+  - skill: MongoDB
+    value: 85
   - skill: GCP
-    value: 65
+    value: 75
   - skill: Modeling
     value: 90
   - skill: Public Speaking
-    value: 80
+    value: 90
   - skill: Tableau
     value: 85
   - skill: Docker and K8
-    value: 75
+    value: 85
   - skill: Spark
-    value: 70
+    value: 80
 social:
   email: brrnelson@berkeley.edu
   orcid: 
