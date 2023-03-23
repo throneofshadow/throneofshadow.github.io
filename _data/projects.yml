@@ -1,3 +1,39 @@
+
+-  project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://github.com/throneofshadow/ReachAnalysis # Full URL
+    image: # path: assets/project/
+    date: 2/2023
+    title: ReachAnalysis
+    summary: Scalable, HPC and cloud-based dashboarding software for data from the ReachMaster project.
+    description: Analysis software for high-dimensional behavioral time-series data from the ReachMaster project. Common
+                  sets of analysis dashboarded include keypoint speeds, custom video feed, and modeled results given 
+                  experimental metadata such as experiment type.
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://github.com/throneofshadow/ReachProcess # Full URL
+    image: # path: assets/project/
+    date: 12/2022
+    title: ReachProcess
+    summary: Real-time ETL pipeline for custom high-dimensional time-series data and SQL stream.
+    description:  ETL pipeline for 3-D CNN keypoint predictions, relational data. Performs each pre-processing step using
+                  CLI interface. Pre-processing steps include 2-D video keypoint prediction using pre-trained neural network, 
+                  2D to 3D keypoint translation using Direct Linear Transformation, and warehousing keypoint and neurophysiology data
+                  for SQL-type queries using Mongo. Performs real-time ETL, given networked inputs.
+
+- project:
+          print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+          modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+          url: https://github.com/throneofshadow/DecisionNet # Full URL
+          image: # path: assets/project/
+          date: 11/2022
+          title: DecisionNet
+          summary: Traditional ANN that simulates neural activity in the prefrontal cortex during a two-choice visual discrimination task commonly used in neuroscience.
+          description: ANN implemented in BrainPy that simulates neural firing rates from a binary set of neurons within a network. For more information, please read
+                        the original work at https://www.sciencedirect.com/science/article/pii/S0896627302010929.
 - project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -17,27 +53,4 @@
     summary: API for creating robot commands and visualizing ReachMaster's robot command space.
     description:  Python API for creating and visualizing robot commands for the ReachMaster experimental paradigm.
 
-- project:
-    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
-    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
-    url: https://github.com/throneofshadow/ReachProcess # Full URL
-    image: # path: assets/project/
-    date: 12/2022
-    title: ReachProcess
-    summary: Real-time ETL pipeline for custom high-dimensional time-series data and SQL stream.
-    description:  ETL pipeline for 3-D CNN keypoint predictions, relational data. Performs each pre-processing step using
-                  CLI interface. Pre-processing steps include 2-D video keypoint prediction using pre-trained neural network, 
-                  2D to 3D keypoint translation using Direct Linear Transformation, and warehousing keypoint and neurophysiology data
-                  for SQL-type queries using Mongo. Performs real-time ETL, given networked inputs.
 
--  project:
-    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
-    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
-    url: https://github.com/throneofshadow/ReachAnalysis # Full URL
-    image: # path: assets/project/
-    date: 2/2023
-    title: ReachAnalysis
-    summary: Scalable, HPC and cloud-based dashboarding software for data from the ReachMaster project.
-    description: Analysis software for high-dimensional behavioral time-series data from the ReachMaster project. Common
-                  sets of analysis dashboarded include keypoint speeds, custom video feed, and modeled results given 
-                  experimental metadata such as experiment type.
