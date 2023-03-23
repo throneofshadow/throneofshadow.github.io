@@ -13,10 +13,10 @@ lang: en
 # Search engine optimization settings
 title: Brett Nelson's webpage
 tagline: A personal webpage for Brett Nelson
-description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
+description: A personal website built with the Grape Theme for Academics
 author: Brett Nelson
 twitter:
-  username: throneofshadow
+  username: BNelson
   card: Twitter
 logo: /assets/img/smile.png
 social:
