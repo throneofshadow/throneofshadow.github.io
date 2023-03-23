@@ -1,34 +1,63 @@
 image: assets/img/smile.png
-username: Christoph Jabs
-description: creator of the Grape-Academic-Theme! Grape-Academic-Theme is a modification of the Grape-Theme by naye0ng, making it more suitable as an academic portfolio.
-webpage: https://chrjabs.github.io
+username: Brett Nelson
+description: Digital home of Brett Nelson, full-stack data scientist and neuroscience researcher.
+webpage: https://throneofshadow.github.io
 experience: # Remove for hiding the experience section
-  - start: 2017-05-03
-    end: 2018-05-06
-    experience : company name, title
+  - start: 2020-04
+    end: Current
+    experience : Project Lead at Lawrence Berkeley National Laboratory
+  - start: 2018-08
+    end: 2020-01
+    experience : Research Associate, University of California Berkeley
 interests: # Remove for hiding the interests section
-  - Interest 1
-  - Interest 2
+  - Quantifying the neural basis for naturalistic behaviors
+  - Building and dashboarding forecasting models of complex, high-dimensional time-series data.
+  - Utilizing modern ML and data science methods to build efficient, scalable software solutions
+  - Database creation, management, and OPS dashboarding
+  - Data engineering solutions, including low-latency IO pipelines for 'online' science!
 skills: # Remove for hiding the skills section
-  - skill: HTML5 & CSS
-    value: 85  # Percent value
+  - skill: Python
+    value: 95  # Percent value
+  - skill: Tensorflow, Keras
+    value: 70
+  - skill: C++
+    value: 60
+  - skill: SQL
+    value: 75
+  - skill: AWS
+    value: 70
+  - skill: MongoDB
+    value: 80
+  - skill: GCP
+    value: 65
+  - skill: Modeling
+    value: 90
+  - skill: Public Speaking
+    value: 80
+  - skill: Tableau
+    value: 85
+  - skill: Docker and K8
+    value: 75
+  - skill: Spark
+    value: 70
 social:
-  email:  # Full email address, e.g. "sample@google.com"
+  email: brrnelson@berkeley.edu
   orcid: 
   scholar: 
   publons: 
   research_gate: 
   dblp:  # Full URL
   semantic_scholar:  # Full URL
-  linkedin:  # Full URL 
-  github: chrjabs
+  linkedin: https://linkedin.com/in/bnelson210
+  github: throneofshadow
   gitlab: 
-  bitbucket: chrjabs
+  bitbucket:
   google_plus:
-  mastodon: https://mastodon.social
-  twitter: chrjabs
+  mastodon:
+  twitter: throneofshadow
   youtube:
   facebook:
   instagram:
 awards: # Remove for hiding the awards section
-  - "This is an award I got"
+  - "AWS SAA"
+  - "GCP Devops"
