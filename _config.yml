@@ -11,19 +11,19 @@ blog: True
 lang: en
 
 # Search engine optimization settings
-title: Grape Academic Theme
-tagline: A jekyll theme for academic portfolios
+title: Brett Nelson's webpage
+tagline: A personal webpage for Brett Nelson
 description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
-author: Christoph Jabs (chrjabs)
+author: Brett Nelson
 twitter:
-  username: chrjabs
-  card: A jekyll theme for academic portfolios
+  username: throneofshadow
+  card: Twitter
 logo: /assets/img/smile.png
 social:
-  name: Christoph Jabs
+  name: Brett Nelson
   links:
-    - https://twitter.com/chrjabs
-    - https://github.com/chrjabs
+    - https://twitter.com/throneofshadow
+    - https://github.com/throneofshadow
 locale: en_GB
 
 # Page Settings
@@ -33,7 +33,7 @@ theme_settings:
   experience_title: EXPERIENCE
   interests_title: RESEARCH INTERESTS
   skills_title: SKILLS
-  awards_title: AWARDS
+  awards_title: CERTIFICATIONS
   projects_title: PROJECTS
   recentpubs_title: RECENT PUBLICATIONS
 
