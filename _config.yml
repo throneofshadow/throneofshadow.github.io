@@ -3,9 +3,9 @@ baseurl: "/Grape-Academic-Theme"
 
 # Features Setting
 # Turn subpages on or off
-publications: True
-presentations: True
-blog: True
+publications: False
+presentations: False
+blog: False
 
 # Language of the website
 lang: en
