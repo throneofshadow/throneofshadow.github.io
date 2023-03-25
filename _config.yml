@@ -51,7 +51,7 @@ bootstrap:
 
 # Bibliography settings
 scholar:
-  bibliography: publications.bib
+  bibliography: one_paper.bib
   bibliography_template: pubstemplate
   style: apa
   locale: en
