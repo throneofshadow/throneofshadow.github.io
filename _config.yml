@@ -55,8 +55,8 @@ scholar:
   bibliography_template: pubstemplate
   style: apa
   locale: en
-  last_name: Me
-  first_name: [Myself, M.]
+  last_name: Nelson
+  first_name: [Brett, R.]
   sort_by: year,month
   order: descending,ascending
 
