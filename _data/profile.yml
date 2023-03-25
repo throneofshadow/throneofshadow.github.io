@@ -5,10 +5,10 @@ webpage: https://throneofshadow.github.io
 experience: # Remove for hiding the experience section
   - start: 2020-04
     end: Current
-    experience : Project Lead at Lawrence Berkeley National Laboratory
+    experience : Graduate Student Researcher, Lawrence Berkeley National Laboratory
   - start: 2018-08
     end: 2020-01
-    experience : Research Associate, University of California Berkeley
+    experience : Graduate Student Researcher, University of California Berkeley
 interests: # Remove for hiding the interests section
   - Quantifying the neural basis for naturalistic behaviors
   - Building and dashboarding forecasting models of complex, high-dimensional time-series data.
