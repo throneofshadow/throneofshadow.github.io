@@ -29,16 +29,16 @@ skills: # Remove for hiding the skills section
   - skill: MongoDB
     value: 85
   - skill: GCP
-    value: 75
-  - skill: Modeling
+    value: 85
+  - skill: Data Modeling
     value: 90
   - skill: Public Speaking
     value: 90
   - skill: Tableau
     value: 85
-  - skill: Docker and K8
+  - skill: Git
     value: 85
-  - skill: Spark
+  - skill: Apache Spark
     value: 80
 social:
   email: brrnelson@berkeley.edu
@@ -61,5 +61,3 @@ social:
 awards: # Remove for hiding the awards section
   - "AWS SAA"
   - "GCP Cloud Engineer"
-  - "GCP Cloud Security Engineer"
-  - "GCP Machine Learning Engineer"
