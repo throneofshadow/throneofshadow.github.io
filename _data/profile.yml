@@ -25,11 +25,9 @@ skills: # Remove for hiding the skills section
   - skill: SQL
     value: 75
   - skill: AWS
-    value: 80
-  - skill: MongoDB
     value: 85
   - skill: GCP
-    value: 85
+    value: 80
   - skill: Data Modeling
     value: 90
   - skill: Public Speaking
